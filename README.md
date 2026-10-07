@@ -143,7 +143,3 @@ Vidyalankar Institute of Technology (VIT)
 **Shorang Singh**
 CMPN B - 25102B0069
 Vidyalankar Institute of Technology (VIT)
-
-## Course
-
-Analysis of Algorithms (AOA) — Mini Project
